@@ -4,6 +4,8 @@
 
 This project dedicated for PHP artisans. In the scope we combined most popular stack: **NGINX + PHP7.2 + MySQL**
 
+# Test Zulip Integration
+
 ### Requirements:
 
 * Docker
@@ -15,7 +17,7 @@ Most common configuration parameters elevated to main `.env` file. Just rename (
 
 If you need to install additional features / modules you can specify them in the related `Dockerfile` instructions.
 
-It is convenient to put docker-folder inside the project to get ability to start environment within project. 
+It is convenient to put docker-folder inside the project to get ability to start environment within project.
 
 ### Basics
 
